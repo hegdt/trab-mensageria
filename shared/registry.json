@@ -6,8 +6,8 @@
     "url": "http://localhost:3002",
     "healthEndpoint": "/health",
     "status": "healthy",
-    "lastHealthCheck": "2025-11-18T00:58:35.617Z",
-    "registeredAt": "2025-11-18T00:58:35.618Z",
+    "lastHealthCheck": "2025-11-24T13:41:12.775Z",
+    "registeredAt": "2025-11-24T13:39:12.675Z",
     "metadata": {
       "description": "Item management service",
       "version": "1.0.0",
@@ -24,7 +24,9 @@
         "DELETE /items/:id",
         "POST /items/bulk",
         "POST /items/search"
-      ]
+      ],
+      "status": "OK",
+      "service": "item-service"
     },
     "circuitBreaker": {
       "failures": 0,
@@ -43,11 +45,41 @@
     "url": "http://localhost:3001",
     "healthEndpoint": "/health",
     "status": "healthy",
-    "lastHealthCheck": "2025-11-18T00:58:35.647Z",
-    "registeredAt": "2025-11-18T00:58:35.647Z",
+    "lastHealthCheck": "2025-11-24T13:41:12.776Z",
+    "registeredAt": "2025-11-24T13:39:12.714Z",
     "metadata": {
       "version": "1.0.0",
-      "description": "User management and authentication service"
+      "description": "User management and authentication service",
+      "status": "healthy",
+      "service": "user-service",
+      "timestamp": "2025-11-24T13:41:12.775Z"
+    },
+    "circuitBreaker": {
+      "failures": 0,
+      "lastFailure": null,
+      "state": "closed",
+      "threshold": 3,
+      "timeout": 60000,
+      "halfOpenRequests": 0,
+      "maxHalfOpenRequests": 3
+    }
+  },
+  "list-service": {
+    "name": "list-service",
+    "host": "localhost",
+    "port": 3003,
+    "url": "http://localhost:3003",
+    "healthEndpoint": "/health",
+    "status": "healthy",
+    "lastHealthCheck": "2025-11-24T13:41:12.777Z",
+    "registeredAt": "2025-11-24T13:39:12.708Z",
+    "metadata": {
+      "version": "1.0.0",
+      "description": "Shopping list management service",
+      "status": "healthy",
+      "service": "list-service",
+      "timestamp": "2025-11-24T13:41:12.775Z",
+      "listsCount": 9
     },
     "circuitBreaker": {
       "failures": 0,

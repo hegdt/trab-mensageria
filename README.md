@@ -162,12 +162,6 @@ Use o RabbitMQ Management UI para acompanhar a criação do exchange, filas e o 
 
 Para chamadas diretas aos serviços internos, use as portas individuais, mas o fluxo recomendado é sempre via gateway.
 
-## Boas práticas e próximos passos
+### Demonstração em vídeo
+[Clique aqui para assistir ao vídeo](./video/demonstracao-mens.mp4)
 
-- Adapte `JWT_SECRET` e considere mover o armazenamento de dados para um banco real (MongoDB, Postgres, etc.) para produção.
-- Adicione testes automatizados ou smoke tests que validem os principais endpoints.
-- Containerize cada serviço para facilitar implantação (Docker Compose é um bom começo).
-
----
-
-Sinta-se à vontade para explorar, ajustar e expandir este laboratório para novos cenários de microsserviços.

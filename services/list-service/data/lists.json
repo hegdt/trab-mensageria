@@ -200,6 +200,408 @@
       "createdAt": "2025-11-18T01:04:04.140Z",
       "updatedAt": "2025-11-18T01:04:09.978Z",
       "completedAt": "2025-11-18T01:04:09.978Z"
+    },
+    "d25206ca3d483159194005e38fab3bdb": {
+      "userId": "a9a6cfc63b60752abb29a54b406d0bbd",
+      "name": "Compras da Semana",
+      "description": "Lista para fazer as compras do fim de semana",
+      "status": "completed",
+      "items": [
+        {
+          "itemId": "734bd27820cdadea9ca4748a22887700",
+          "itemName": "Arroz 5kg",
+          "quantity": 2,
+          "unit": "pacote",
+          "estimatedPrice": 25.9,
+          "purchased": true,
+          "notes": "Preferência: Tio João",
+          "addedAt": "2025-11-24T13:14:48.599Z"
+        },
+        {
+          "itemId": "4e97fbdc3a19cf8c16353389cfbaefbb",
+          "itemName": "Biscoito Recheado 140g",
+          "quantity": 1,
+          "unit": "pacote",
+          "estimatedPrice": 4.5,
+          "purchased": false,
+          "notes": "",
+          "addedAt": "2025-11-24T13:14:49.110Z"
+        },
+        {
+          "itemId": "e6b7908bf529af2f2fbc4896eb974797",
+          "itemName": "Bolo Pronto 400g",
+          "quantity": 3,
+          "unit": "unidade",
+          "estimatedPrice": 12.9,
+          "purchased": false,
+          "notes": "Integral se tiver",
+          "addedAt": "2025-11-24T13:14:49.622Z"
+        },
+        {
+          "itemId": "3f212daf94ac4188e7e5b0852fd4ecbb",
+          "itemName": "Creme Dental 90g",
+          "quantity": 2,
+          "unit": "tubo",
+          "estimatedPrice": 4.9,
+          "purchased": false,
+          "notes": "",
+          "addedAt": "2025-11-24T13:14:50.143Z"
+        },
+        {
+          "itemId": "218249e360d9faafcbaa70a020ad0676",
+          "itemName": "Macarrão Espaguete 500g",
+          "quantity": 1,
+          "unit": "pacote",
+          "estimatedPrice": 4.9,
+          "purchased": false,
+          "notes": "Folha dupla",
+          "addedAt": "2025-11-24T13:14:50.657Z"
+        }
+      ],
+      "summary": {
+        "totalItems": 5,
+        "purchasedItems": 1,
+        "estimatedTotal": 57.9
+      },
+      "id": "d25206ca3d483159194005e38fab3bdb",
+      "createdAt": "2025-11-24T13:14:47.581Z",
+      "updatedAt": "2025-11-24T13:14:53.194Z",
+      "completedAt": "2025-11-24T13:14:53.194Z"
+    },
+    "6417d0b04a5cdef5b07d904e63a4ca16": {
+      "userId": "f2de49afc52e9158923fd0c1a59b3a81",
+      "name": "Compras da Semana",
+      "description": "Lista para fazer as compras do fim de semana",
+      "status": "completed",
+      "items": [
+        {
+          "itemId": "734bd27820cdadea9ca4748a22887700",
+          "itemName": "Arroz 5kg",
+          "quantity": 2,
+          "unit": "pacote",
+          "estimatedPrice": 25.9,
+          "purchased": true,
+          "notes": "Preferência: Tio João",
+          "addedAt": "2025-11-24T13:19:57.242Z"
+        },
+        {
+          "itemId": "4e97fbdc3a19cf8c16353389cfbaefbb",
+          "itemName": "Biscoito Recheado 140g",
+          "quantity": 1,
+          "unit": "pacote",
+          "estimatedPrice": 4.5,
+          "purchased": false,
+          "notes": "",
+          "addedAt": "2025-11-24T13:19:57.760Z"
+        },
+        {
+          "itemId": "e6b7908bf529af2f2fbc4896eb974797",
+          "itemName": "Bolo Pronto 400g",
+          "quantity": 3,
+          "unit": "unidade",
+          "estimatedPrice": 12.9,
+          "purchased": false,
+          "notes": "Integral se tiver",
+          "addedAt": "2025-11-24T13:19:58.278Z"
+        },
+        {
+          "itemId": "3f212daf94ac4188e7e5b0852fd4ecbb",
+          "itemName": "Creme Dental 90g",
+          "quantity": 2,
+          "unit": "tubo",
+          "estimatedPrice": 4.9,
+          "purchased": false,
+          "notes": "",
+          "addedAt": "2025-11-24T13:19:58.792Z"
+        },
+        {
+          "itemId": "218249e360d9faafcbaa70a020ad0676",
+          "itemName": "Macarrão Espaguete 500g",
+          "quantity": 1,
+          "unit": "pacote",
+          "estimatedPrice": 4.9,
+          "purchased": false,
+          "notes": "Folha dupla",
+          "addedAt": "2025-11-24T13:19:59.306Z"
+        }
+      ],
+      "summary": {
+        "totalItems": 5,
+        "purchasedItems": 1,
+        "estimatedTotal": 57.9
+      },
+      "id": "6417d0b04a5cdef5b07d904e63a4ca16",
+      "createdAt": "2025-11-24T13:19:56.225Z",
+      "updatedAt": "2025-11-24T13:20:01.838Z",
+      "completedAt": "2025-11-24T13:20:01.838Z"
+    },
+    "87f5aacc6d7e1ad2bb7277381bed6199": {
+      "userId": "1fa40bd021650fcd336cfe8dd9acb3fa",
+      "name": "Compras da Semana",
+      "description": "Lista para fazer as compras do fim de semana",
+      "status": "completed",
+      "items": [
+        {
+          "itemId": "734bd27820cdadea9ca4748a22887700",
+          "itemName": "Arroz 5kg",
+          "quantity": 2,
+          "unit": "pacote",
+          "estimatedPrice": 25.9,
+          "purchased": true,
+          "notes": "Preferência: Tio João",
+          "addedAt": "2025-11-24T13:24:04.473Z"
+        },
+        {
+          "itemId": "4e97fbdc3a19cf8c16353389cfbaefbb",
+          "itemName": "Biscoito Recheado 140g",
+          "quantity": 1,
+          "unit": "pacote",
+          "estimatedPrice": 4.5,
+          "purchased": false,
+          "notes": "",
+          "addedAt": "2025-11-24T13:24:04.981Z"
+        },
+        {
+          "itemId": "e6b7908bf529af2f2fbc4896eb974797",
+          "itemName": "Bolo Pronto 400g",
+          "quantity": 3,
+          "unit": "unidade",
+          "estimatedPrice": 12.9,
+          "purchased": false,
+          "notes": "Integral se tiver",
+          "addedAt": "2025-11-24T13:24:05.501Z"
+        },
+        {
+          "itemId": "3f212daf94ac4188e7e5b0852fd4ecbb",
+          "itemName": "Creme Dental 90g",
+          "quantity": 2,
+          "unit": "tubo",
+          "estimatedPrice": 4.9,
+          "purchased": false,
+          "notes": "",
+          "addedAt": "2025-11-24T13:24:06.018Z"
+        },
+        {
+          "itemId": "218249e360d9faafcbaa70a020ad0676",
+          "itemName": "Macarrão Espaguete 500g",
+          "quantity": 1,
+          "unit": "pacote",
+          "estimatedPrice": 4.9,
+          "purchased": false,
+          "notes": "Folha dupla",
+          "addedAt": "2025-11-24T13:24:06.538Z"
+        }
+      ],
+      "summary": {
+        "totalItems": 5,
+        "purchasedItems": 1,
+        "estimatedTotal": 57.9
+      },
+      "id": "87f5aacc6d7e1ad2bb7277381bed6199",
+      "createdAt": "2025-11-24T13:24:03.455Z",
+      "updatedAt": "2025-11-24T13:24:09.070Z",
+      "completedAt": "2025-11-24T13:24:09.070Z"
+    },
+    "1fb3cd8387d154e3e739fb092e16075b": {
+      "userId": "0e3568c73b55312347efe52e670685be",
+      "name": "Compras da Semana",
+      "description": "Lista para fazer as compras do fim de semana",
+      "status": "completed",
+      "items": [
+        {
+          "itemId": "734bd27820cdadea9ca4748a22887700",
+          "itemName": "Arroz 5kg",
+          "quantity": 2,
+          "unit": "pacote",
+          "estimatedPrice": 25.9,
+          "purchased": true,
+          "notes": "Preferência: Tio João",
+          "addedAt": "2025-11-24T13:35:14.999Z"
+        },
+        {
+          "itemId": "4e97fbdc3a19cf8c16353389cfbaefbb",
+          "itemName": "Biscoito Recheado 140g",
+          "quantity": 1,
+          "unit": "pacote",
+          "estimatedPrice": 4.5,
+          "purchased": false,
+          "notes": "",
+          "addedAt": "2025-11-24T13:35:15.522Z"
+        },
+        {
+          "itemId": "e6b7908bf529af2f2fbc4896eb974797",
+          "itemName": "Bolo Pronto 400g",
+          "quantity": 3,
+          "unit": "unidade",
+          "estimatedPrice": 12.9,
+          "purchased": false,
+          "notes": "Integral se tiver",
+          "addedAt": "2025-11-24T13:35:16.037Z"
+        },
+        {
+          "itemId": "3f212daf94ac4188e7e5b0852fd4ecbb",
+          "itemName": "Creme Dental 90g",
+          "quantity": 2,
+          "unit": "tubo",
+          "estimatedPrice": 4.9,
+          "purchased": false,
+          "notes": "",
+          "addedAt": "2025-11-24T13:35:16.565Z"
+        },
+        {
+          "itemId": "218249e360d9faafcbaa70a020ad0676",
+          "itemName": "Macarrão Espaguete 500g",
+          "quantity": 1,
+          "unit": "pacote",
+          "estimatedPrice": 4.9,
+          "purchased": false,
+          "notes": "Folha dupla",
+          "addedAt": "2025-11-24T13:35:17.079Z"
+        }
+      ],
+      "summary": {
+        "totalItems": 5,
+        "purchasedItems": 1,
+        "estimatedTotal": 57.9
+      },
+      "id": "1fb3cd8387d154e3e739fb092e16075b",
+      "createdAt": "2025-11-24T13:35:13.979Z",
+      "updatedAt": "2025-11-24T13:35:19.630Z",
+      "completedAt": "2025-11-24T13:35:19.630Z"
+    },
+    "b3ff776fb676ea19b040f56b58c2484c": {
+      "userId": "f469ef62526e4429e4a60e1680c9406e",
+      "name": "Compras da Semana",
+      "description": "Lista para fazer as compras do fim de semana",
+      "status": "completed",
+      "items": [
+        {
+          "itemId": "734bd27820cdadea9ca4748a22887700",
+          "itemName": "Arroz 5kg",
+          "quantity": 2,
+          "unit": "pacote",
+          "estimatedPrice": 25.9,
+          "purchased": true,
+          "notes": "Preferência: Tio João",
+          "addedAt": "2025-11-24T13:37:41.117Z"
+        },
+        {
+          "itemId": "4e97fbdc3a19cf8c16353389cfbaefbb",
+          "itemName": "Biscoito Recheado 140g",
+          "quantity": 1,
+          "unit": "pacote",
+          "estimatedPrice": 4.5,
+          "purchased": false,
+          "notes": "",
+          "addedAt": "2025-11-24T13:37:41.642Z"
+        },
+        {
+          "itemId": "e6b7908bf529af2f2fbc4896eb974797",
+          "itemName": "Bolo Pronto 400g",
+          "quantity": 3,
+          "unit": "unidade",
+          "estimatedPrice": 12.9,
+          "purchased": false,
+          "notes": "Integral se tiver",
+          "addedAt": "2025-11-24T13:37:42.151Z"
+        },
+        {
+          "itemId": "3f212daf94ac4188e7e5b0852fd4ecbb",
+          "itemName": "Creme Dental 90g",
+          "quantity": 2,
+          "unit": "tubo",
+          "estimatedPrice": 4.9,
+          "purchased": false,
+          "notes": "",
+          "addedAt": "2025-11-24T13:37:42.663Z"
+        },
+        {
+          "itemId": "218249e360d9faafcbaa70a020ad0676",
+          "itemName": "Macarrão Espaguete 500g",
+          "quantity": 1,
+          "unit": "pacote",
+          "estimatedPrice": 4.9,
+          "purchased": false,
+          "notes": "Folha dupla",
+          "addedAt": "2025-11-24T13:37:43.186Z"
+        }
+      ],
+      "summary": {
+        "totalItems": 5,
+        "purchasedItems": 1,
+        "estimatedTotal": 57.9
+      },
+      "id": "b3ff776fb676ea19b040f56b58c2484c",
+      "createdAt": "2025-11-24T13:37:40.097Z",
+      "updatedAt": "2025-11-24T13:37:45.722Z",
+      "completedAt": "2025-11-24T13:37:45.722Z"
+    },
+    "31a959cc856e9426530edb272b4fbf8d": {
+      "userId": "0f5bb96bc2b9882bfaa72a756667a331",
+      "name": "Compras da Semana",
+      "description": "Lista para fazer as compras do fim de semana",
+      "status": "completed",
+      "items": [
+        {
+          "itemId": "734bd27820cdadea9ca4748a22887700",
+          "itemName": "Arroz 5kg",
+          "quantity": 2,
+          "unit": "pacote",
+          "estimatedPrice": 25.9,
+          "purchased": true,
+          "notes": "Preferência: Tio João",
+          "addedAt": "2025-11-24T13:39:43.920Z"
+        },
+        {
+          "itemId": "4e97fbdc3a19cf8c16353389cfbaefbb",
+          "itemName": "Biscoito Recheado 140g",
+          "quantity": 1,
+          "unit": "pacote",
+          "estimatedPrice": 4.5,
+          "purchased": false,
+          "notes": "",
+          "addedAt": "2025-11-24T13:39:44.444Z"
+        },
+        {
+          "itemId": "e6b7908bf529af2f2fbc4896eb974797",
+          "itemName": "Bolo Pronto 400g",
+          "quantity": 3,
+          "unit": "unidade",
+          "estimatedPrice": 12.9,
+          "purchased": false,
+          "notes": "Integral se tiver",
+          "addedAt": "2025-11-24T13:39:44.959Z"
+        },
+        {
+          "itemId": "3f212daf94ac4188e7e5b0852fd4ecbb",
+          "itemName": "Creme Dental 90g",
+          "quantity": 2,
+          "unit": "tubo",
+          "estimatedPrice": 4.9,
+          "purchased": false,
+          "notes": "",
+          "addedAt": "2025-11-24T13:39:45.472Z"
+        },
+        {
+          "itemId": "218249e360d9faafcbaa70a020ad0676",
+          "itemName": "Macarrão Espaguete 500g",
+          "quantity": 1,
+          "unit": "pacote",
+          "estimatedPrice": 4.9,
+          "purchased": false,
+          "notes": "Folha dupla",
+          "addedAt": "2025-11-24T13:39:46.000Z"
+        }
+      ],
+      "summary": {
+        "totalItems": 5,
+        "purchasedItems": 1,
+        "estimatedTotal": 57.9
+      },
+      "id": "31a959cc856e9426530edb272b4fbf8d",
+      "createdAt": "2025-11-24T13:39:42.900Z",
+      "updatedAt": "2025-11-24T13:39:48.558Z",
+      "completedAt": "2025-11-24T13:39:48.558Z"
     }
   }
 }
