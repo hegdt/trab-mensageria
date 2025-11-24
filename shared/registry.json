@@ -1,0 +1,62 @@
+{
+  "item-service": {
+    "name": "item-service",
+    "host": "localhost",
+    "port": 3002,
+    "url": "http://localhost:3002",
+    "healthEndpoint": "/health",
+    "status": "healthy",
+    "lastHealthCheck": "2025-11-18T00:58:35.617Z",
+    "registeredAt": "2025-11-18T00:58:35.618Z",
+    "metadata": {
+      "description": "Item management service",
+      "version": "1.0.0",
+      "endpoints": [
+        "GET /health",
+        "GET /items",
+        "GET /items/:id",
+        "GET /items/barcode/:barcode",
+        "GET /categories",
+        "GET /brands",
+        "GET /stats",
+        "POST /items",
+        "PUT /items/:id",
+        "DELETE /items/:id",
+        "POST /items/bulk",
+        "POST /items/search"
+      ]
+    },
+    "circuitBreaker": {
+      "failures": 0,
+      "lastFailure": null,
+      "state": "closed",
+      "threshold": 3,
+      "timeout": 60000,
+      "halfOpenRequests": 0,
+      "maxHalfOpenRequests": 3
+    }
+  },
+  "user-service": {
+    "name": "user-service",
+    "host": "localhost",
+    "port": 3001,
+    "url": "http://localhost:3001",
+    "healthEndpoint": "/health",
+    "status": "healthy",
+    "lastHealthCheck": "2025-11-18T00:58:35.647Z",
+    "registeredAt": "2025-11-18T00:58:35.647Z",
+    "metadata": {
+      "version": "1.0.0",
+      "description": "User management and authentication service"
+    },
+    "circuitBreaker": {
+      "failures": 0,
+      "lastFailure": null,
+      "state": "closed",
+      "threshold": 3,
+      "timeout": 60000,
+      "halfOpenRequests": 0,
+      "maxHalfOpenRequests": 3
+    }
+  }
+}
